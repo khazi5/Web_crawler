@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/Web_crawler.iml
+.idea/codeStyles/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/workspace.xml
+111.png
+DB_Programming/
+#License_plate_bidding_Data/
+Microblog_Automated operation/
+Pkgs_use_cases/
+myplot.png
+venv/
